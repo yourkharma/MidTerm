@@ -1,0 +1,106 @@
+body{
+    background-image: fixed;
+}
+#wrapper
+{
+    background-color: black;
+    width: 80%;
+    height: 1200px;
+    margin-left: 10%;
+}
+#logo
+{
+    padding-top: 15px;
+    padding-left: 15px;
+    height: 60px;
+     width: 80%;
+}
+#header
+{
+    height: 10px;
+     width: 110%;
+     padding-left: 25px;
+     
+}
+#nav
+{
+    margin-top:5px;
+    background-color: black;
+    height:30px;
+}
+#content
+{
+    height:1000px;
+}
+#rightContent
+{
+    float:right;
+    width: 600px;
+    height: 250px;
+    margin-right:15px;
+    margin-top:15px;
+    margin-left:15px;
+}
+#rightbot
+{
+    float:right;
+    width: 600px;
+    height: 720px;
+    margin-right:15px;
+    margin-top:15px;
+    margin-left:15px;
+}
+#leftContent
+{
+    float:left;
+    width: 420px;
+    height: 1000px;
+    margin-top:15px;
+    margin-left:15px;
+}
+#left
+{
+    height:400px;
+    width:420px;
+    background-color: gray;
+}
+#news
+{
+    float:left;
+   margin-top:15px;
+   width: 100px;
+   height:33px;
+   background-color: yellow; 
+   font-family: Arial;
+   color: black;
+}
+#footer
+{
+    background-color: gray;
+    height: 70px;
+    width:1036px ;
+    margin-left:15px;
+    margin-right:15px;
+    margin-top:25px;
+}
+a 
+{
+    text-decoration: none;
+}
+
+a:link, a:visited{
+    color: white;
+}
+
+a:hover, a:active{
+    background-color: darkorange;
+    color: #fff;   
+}
+#pic
+{
+    padding-top:3px;
+    margin:20px;
+    width:554px;
+    height:290px;
+    background-color:gray;
+}
